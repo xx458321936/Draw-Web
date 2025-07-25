@@ -1,2 +1,2 @@
-* [A文件](zh-cn/a.md)
-* [测试](zh-cn/b.md)
+* [项目](zh-cn/A.md)
+* [工具](zh-cn/B.md)
